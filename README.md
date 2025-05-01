@@ -1,4 +1,4 @@
 - 👋 Hi, I’m Dave
 - 👀 I’m interested in Cybersecurity
 - 🌱 I’m currently learning Web development
-- ⚡ Fun fact: I barely know python
+- ⚡ Fun fact: I barely know python and act like im a pro
