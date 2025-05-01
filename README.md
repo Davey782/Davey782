@@ -1,7 +1,7 @@
 <h1 align="center">Hi there! 👋 I'm Dave</h1>
 
 <p align="center">
-  <i>Aspiring developer passionate about Python, HTML, and CSS!</i>
+  <i>Aspiring developer</i>
 </p>
 
 ---
@@ -21,9 +21,9 @@
 
 ## 🌟 About Me
 
-- 🌱 I’m currently learning **Basics of cybersecurity **.
+- 🌱 I’m currently learning Basics of cybersecurity.
 - 🔨 I enjoy building web pages.
-- 🎯 My goal: Become a frontend web developer in the next two years. Then become a cybersecurity specialist
+- 🎯 My goal: Become a frontend web developer by 2027. Then move on to becoming a cybersecurity specialist
 
 ---
 
