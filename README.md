@@ -1,7 +1,7 @@
 <h1 align="center">Hi there! 👋 I'm Dave</h1>
 
 <p align="center">
-  <i>Aspiring developer</i>
+  <i>Hacker</i>
 </p>
 
 
@@ -26,9 +26,9 @@
 
 ## 🌟 About Me
 
-- 🌱 I’m currently learning Basics of cybersecurity.
-- 🔨 I enjoy building web pages.
-- 🎯 My goal: Become a frontend web developer by 2027. Then move on to becoming a cybersecurity specialist
+- 🌱 I am currently focusing on cybersecurity
+- 🔨 I enjoy discovering new hacking tools
+- 🎯 My goal: Become a penetration tester
 
 <p align="center">
   ✨ Thank you for visiting my profile! ✨
