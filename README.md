@@ -8,8 +8,8 @@
 
 - 🌱 I am currently focusing on cybersecurity
 - 🔨 I enjoy discovering new hacking tools
-- 🎯 My goal: Become a penetration tester
+- 🎯 My goal: tbh idk
 
 <p align="center">
-  ✨ Thank you for visiting my profile! ✨
+   Thank you for visiting my profile! 
 </p>
